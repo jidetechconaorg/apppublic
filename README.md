@@ -1,3 +1,3 @@
 # apppublic
 
-Demo Code creating a GitHub App
+Demo Code creating a GitHub App.
